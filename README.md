@@ -4,7 +4,8 @@ A calculadora é responsiva, adaptando-se a diferentes tamanhos de tela para que
 
 Este projeto tem um design simples e intuitivo, inspirado na identidade visual do YouTube, com a opção de alternar entre um tema claro e escuro para melhorar a experiência do usuário.
 
-Funcionalidades
+## Funcionalidades ##
+
 1. Campos de Entrada para Métricas do YouTube
 Número de Inscritos : Campo onde o usuário insere o total de inscritos no canal.
 Visualizações do Canal : Campo para as visualizações totais do canal, usado para calcular uma estimativa de ganhos.
