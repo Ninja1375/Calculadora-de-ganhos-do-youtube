@@ -1,5 +1,6 @@
-Descrição do Projeto
-A Calculadora de Ganhos do YouTube é uma ferramenta interativa que permite aos de conteúdo do YouTube estimar os seus criadores ganhos com base em métricas chave, como número de inscritos, visualizações totais do canal, visualizações de vídeos individuais e o valor de CPM (Custo por Mil R$) em dólares. A calculadora é responsiva, adaptando-se a diferentes tamanhos de tela para que os usuários possam acessá-la e utilizá-la em qualquer dispositivo, incluindo desktops, tablets e smartphones.
+A **Calculadora de Ganhos do YouTube** é uma ferramenta interativa que permite aos criadores de conteúdo do YouTube estimar os seus ganhos com base em métricas chave, como número de inscritos, visualizações totais do canal, visualizações de vídeos individuais e o valor de CPM (Custo por Mil R$) em dólares. 
+
+A calculadora é responsiva, adaptando-se a diferentes tamanhos de tela para que os usuários possam acessá-la e utilizá-la em qualquer dispositivo, incluindo desktops, tablets e smartphones.
 
 Este projeto tem um design simples e intuitivo, inspirado na identidade visual do YouTube, com a opção de alternar entre um tema claro e escuro para melhorar a experiência do usuário.
 
