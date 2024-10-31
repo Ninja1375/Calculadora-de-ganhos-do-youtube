@@ -27,7 +27,7 @@ Um botão que permite alternar entre os temas claro e escuro. O tema escuro alte
 ***4. Interface Responsiva***
 
 A calculadora se adapta a todos os tamanhos de tela, garantindo que os usuários possam acessar e visualizar o conteúdo de forma otimizada, independentemente do dispositivo (desktop, tablet, ou smartphone).
-Utilize media queries para ajustar automaticamente o layout, ampliando o formulário em telas maiores e mantendo uma largura mínima em dispositivos móveis.
+Utiliza media queries para ajustar automaticamente o layout, ampliando o formulário em telas maiores e mantendo uma largura mínima em dispositivos móveis.
 
 ***5. Mensagens de Erro***
 
@@ -37,12 +37,15 @@ Se algum campo estiver vazio ou se for inserido um valor inválido, a calculador
 
 Design inspirado nos núcleos do YouTube, com botões e textos claros e simples de identificar. Botões e campos de entrada têm efeitos de foco, oferecendo uma sensação de interatividade ao usuário.
 Lógica de Cálculo
-Cálculo de Visualizações Monetizadas :
+
+## Cálculo de Visualizações Monetizadas: ##
 
 Suponha-se que apenas 60% das visualizações totais são monetizadas, ou seja, geram receita. Este valor é usado como base para calcular os ganhos.
-Estimativa de Ganhos :
 
-O cálculo dos ganhos é feito multiplicando as visualizações monetizadas pelo valor do CPM fornecido. A fórmula básica é:
+## Estimativa de Ganhos: ##
+
+O cálculo dos ganhos é feito multiplicando as visualizações monetizadas pelo valor do CPM fornecido. **A fórmula básica é:**
+
 Ganhos
 =
 (
@@ -68,7 +71,11 @@ o
  é Monetizadas
 ​
  )×CPM
-Exposição dos Resultados :
+ 
+**Exposição dos Resultados:**
 
 O resultado é exibido em tempo real, logo abaixo do botão de cálculo, mostrando os ganhos estimados em dólares com base nas entradas do usuário.
-Essa calculadora é ideal para criadores de conteúdo que desejam ter uma ideia de seus ganhos potenciais no YouTube com base em suas visualizações e valor de CPM, ajustando-se ao estilo pessoal e preferência de visualização com o recurso de tema. É uma ferramenta educativa e prática para a comunidade de YouTubers e entusiastas do marketing digital.
+
+Esta calculadora é ideal para criadores de conteúdo que desejam ter uma ideia de seus ganhos potenciais no YouTube com base em suas visualizações e valor de CPM, ajustando-se ao estilo pessoal e preferência de visualização com o recurso de tema.
+
+É uma ferramenta educativa e prática para a comunidade de YouTubers e entusiastas do marketing digital.
