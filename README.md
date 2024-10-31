@@ -36,13 +36,14 @@ Se algum campo estiver vazio ou se for inserido um valor inválido, a calculador
 ***6. Estilo Moderno e Intuitivo***
 
 Design inspirado nos núcleos do YouTube, com botões e textos claros e simples de identificar. Botões e campos de entrada têm efeitos de foco, oferecendo uma sensação de interatividade ao usuário.
-Lógica de Cálculo
 
-## Cálculo de Visualizações Monetizadas: ##
+## Lógica de Cálculo ##
+
+**Cálculo de Visualizações Monetizadas:**
 
 Suponha-se que apenas 60% das visualizações totais são monetizadas, ou seja, geram receita. Este valor é usado como base para calcular os ganhos.
 
-## Estimativa de Ganhos: ##
+**Estimativa de Ganhos:**
 
 O cálculo dos ganhos é feito multiplicando as visualizações monetizadas pelo valor do CPM fornecido. **A fórmula básica é:**
 
