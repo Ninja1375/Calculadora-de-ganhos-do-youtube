@@ -47,8 +47,7 @@ Suponha-se que apenas 60% das visualizações totais são monetizadas, ou seja, 
 
 O cálculo dos ganhos é feito multiplicando as visualizações monetizadas pelo valor do CPM fornecido. **A fórmula básica é:**
 
-Ganhos = (Visualizações Monetizadas) x CPM
-                    1000
+Ganhos = (Visualizações Monetizadas/1000) x CPM
  
 **Exposição dos Resultados:**
 
