@@ -56,3 +56,7 @@ O resultado é exibido em tempo real, logo abaixo do botão de cálculo, mostran
 Esta calculadora é ideal para criadores de conteúdo que desejam ter uma ideia de seus ganhos potenciais no YouTube com base em suas visualizações e valor de CPM, ajustando-se ao estilo pessoal e preferência de visualização com o recurso de tema.
 
 É uma ferramenta educativa e prática para a comunidade de YouTubers e entusiastas do marketing digital.
+
+## linguagens Utilizadas ##
+
+<a href="https://programartudo.blogspot.com/2024/05/html-o-que-e-e-qual-sua-funcionalidade.html?m=1" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/></a> <a href="https://programartudo.blogspot.com/2024/05/css-significado-e-funcionalidade.html?m=1" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/></a> <a href="https://programartudo.blogspot.com/2024/05/javascript-significado-e-funcionalidade.html?m=1" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
